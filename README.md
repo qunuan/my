@@ -7,25 +7,26 @@
 
 ### 技能专长： 
 ---
-1. 熟练掌握java,python开发语言; 
-2. 精通javaweb开发，熟练使用spring boot，spring mvc，struts，spring，mybatis，hibernate框架； 
-3. 熟练使用mysql，postgresql，mongodb，sqlserver，oracle数据库，掌握数据库优化技巧； 
-4. 熟悉tomcat、nginx、MQ、mycat等应用中间件的使用； 
-5. 了解hadoop大数据，熟练使用hbase,hive,spark,hdfs等大数据组件做数据存储，清洗等工作。 
-6. 了解大数据分布式，熟练使用elasticsearch、ELK系统、mongodb高可用集群； 
-7. 了解缓存系统，熟悉redis等分布式缓存； 
-8. 了解微服务架构，熟悉dubbo,zookeeper等框架； 
-9. 熟练使用docker,了解k8s&rancher的使用 
-10. 熟练操作linux操作系统； 
-11. 熟悉前端开发js、bootstrap、vue、html等；
+1. 熟练掌握Java,Python,.Net开发语言;
+2. 精通应用开发，熟练使用Spring Boot微服，SSM，SSH等框架；
+3. 熟练使用Mysql，Postgresql，Mongodb，Oracle数据库，掌握数据库优化技巧；
+4. 熟悉Tomcat、Nginx、MQ、Mycat等应用中间件的使用；
+5. 了解Hadoop大数据，熟练使用Hase,Hive,Spark等组件做数据存储，清洗等工作。
+6. 了解大数据分布式，熟练使用Elasticsearch、ELK系统、Mongodb高可用集群；
+7. 了解缓存系统，熟悉Redis等分布式缓存；
+8. 了解微服务架构，熟悉Dubbo,Zookeeper,SpringCloud等框架；
+9. 熟练使用Docker,了解k8s&Rancher的使用
+10. 熟练操作Linux操作系统，了解JVM调优技巧；
+11. 熟悉前端开发Js、Bootstrap、Vue、Html等；
+12. 具有一定的团队管理经验;
 
 ### 工作经历：
 ---
 #### 北京巨掌互动科技有限公司（2017.07-2019.10）
 
-**从事工作**：java项目开发及维护 
+**从事工作**：技术主管
 
-**代表项目**：巨掌ASO/ASM大数据分析平台 
+**代表项目**：巨掌ASO/ASM大数据分析平台，互动广告系统平台 
 
 **开发环境**：java + spring boot + mysql/mongodb/es 
 
@@ -38,9 +39,9 @@
 >该项目主要aso/asm运营人员提供的一个专业APP推广和关键词大数据分析平台，涵盖AppStore应用，关键词，榜单等全方位，多维度分析数据。 
 
 * 主要负责 
-* * 使用hbase实时存储爬虫数据， 
-* * 使用hive+spark将数据清洗存储到es或mongodb中， 
-* * 开发历史竞价app,历史竞价关键词，推荐关键词，竞品推荐，竞品对比等功能模块开发 
+* * 与产品经理对接需求，带领团队需求分析，架构设计及功能开发;
+* * 使用Hbase实时存储爬虫数据,使用Hive+Spark将数据ETL到ES或Mongodb中
+* * 开发历史竞价app,历史竞价关键词，推荐关键词，竞品推荐，竞品对比等模块开发
 
 ### 18互动广告系统 
 
